@@ -12,7 +12,7 @@
 
 - 🌱 learning more about web aplications.
 
-![jaiminho_cabrit](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![jaiminho_cabrit(https://twitter.com/jaiminho_cabrit](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 ### Tecnologies :zap:
 Backend:

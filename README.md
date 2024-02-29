@@ -14,7 +14,7 @@
 
   
 [![Linkedin jaime](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/7b9215271/)](https://www.linkedin.com/in/jaime-victor-azevedo-carneiro-santos-7b9215271/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/jaiminho_cabrit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jaime?style=social)](https://twitter.com/jaiminho_cabrit)
 ### Tecnologies :zap:
 Backend:
 

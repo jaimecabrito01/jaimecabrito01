@@ -6,7 +6,7 @@
 
 <p>Im java developer</p>
 
-## Sobre mim
+## About me
 
 - 🤔 Computer science enthusiast and Java developer.Future software engineer.
 
@@ -39,5 +39,7 @@ IDEs:
 
 More :
 
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 

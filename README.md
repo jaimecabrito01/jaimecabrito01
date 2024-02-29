@@ -11,7 +11,9 @@
 - 🤔 Computer science enthusiast and Java developer.Future software engineer.
 
 - 🌱 learning more about web aplications.
-- <img  src="[https://twitter.com/jaiminho_cabrit](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" /> 
+
+
+<img  src="[https://twitter.com/jaiminho_cabrit](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" /> 
 
 
 ### Tecnologies :zap:
@@ -35,6 +37,8 @@ IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 More :
-![Linux](https://img.shields.io/badge/-Linux-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 

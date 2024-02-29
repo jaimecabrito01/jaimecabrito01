@@ -11,8 +11,7 @@
 - 🤔 Computer science enthusiast and Java developer.Future software engineer.
 
 - 🌱 learning more about web aplications.
-
-![jaiminho_cabrit(https://twitter.com/jaiminho_cabrit](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[![Linkedin jaime](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/7b9215271/)](https://www.linkedin.com/in/jaime-victor-azevedo-carneiro-santos-7b9215271/)
 
 ### Tecnologies :zap:
 Backend:

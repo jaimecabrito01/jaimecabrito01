@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=JaimeVictor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Im java developer/p>
+<p>Im java developer</p>
 
 
 ### Tecnologies

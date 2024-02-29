@@ -2,18 +2,15 @@
 
 ### Olá, meu nome é Jaime Victor!
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=JaimeVictor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Im java developer</p>
+
 ## Sobre mim
 
 - 🤔 Computer science enthusiast and Java developer.Future software engineer.
 
 - 🌱 learning more about web aplications.
-
-
-
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=JaimeVictor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Im java developer</p>
 
 
 ### Tecnologies

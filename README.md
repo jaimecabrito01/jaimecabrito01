@@ -9,8 +9,8 @@
 ## About me
 
 - 🤔 Computer science enthusiast and Java developer.Future software engineer.
-
-- 🌱 learning more about web aplications.
+- Currently studying Information Systems
+- 🌱 learning more about web aplications and DevOps culture.
 
   
 [![Linkedin jaime](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/7b9215271/)](https://www.linkedin.com/in/jaime-victor-azevedo-carneiro-santos-7b9215271/)
@@ -20,7 +20,7 @@ Backend:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
 
 Database:
 

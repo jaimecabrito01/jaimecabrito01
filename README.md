@@ -9,7 +9,7 @@
 ## About me
 
 - 🤔 Computer science enthusiast and Java developer.Future software engineer.
-- Currently studying Information Systems
+- Currently studying Computer Engineering
 - 🌱 learning more about web aplications and DevOps culture.
 
   

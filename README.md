@@ -20,7 +20,9 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🤔 Computer science enthusiast and Java developer.Future software engineer.<br>- Currently studying Computer Engineering<br>- 🌱 learning more about web aplications and DevOps culture...</p>
+- 🤔 Computer science enthusiast and Java developer.Future software engineer.
+- Currently studying Computer Engineering
+- 🌱 learning more about web aplications and DevOps culture...
 
 ###
 

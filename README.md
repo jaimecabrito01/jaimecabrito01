@@ -39,7 +39,7 @@
 </div>
 
 <h3 align="left">🔥 My Stats</h3>
-<h3 align="left">🔥
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaimecabrito01&theme=dark)](https://git.io/streak-stats)
-</h3>
+
 

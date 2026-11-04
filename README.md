@@ -39,9 +39,7 @@
 </div>
 
 <h3 align="left">🔥 My Stats</h3>
-<p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak Stats" />
-</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaimecabrito01&theme=dark)](https://git.io/streak-stats)
 
